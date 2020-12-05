@@ -7,7 +7,7 @@
     android:fitsSystemWindows="true"
     android:background="@drawable/light"
     android:orientation="vertical"
-    tools:context="com.toosame.weather.MainActivity">
+    tools:context="com.gaohan.WeatherF.MainActivity">
     <LinearLayout
         android:id="@+id/main_header"
         android:layout_width="match_parent"

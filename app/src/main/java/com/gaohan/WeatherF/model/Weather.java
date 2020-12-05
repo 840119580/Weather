@@ -1,4 +1,4 @@
-package com.toosame.weather.model;
+package com.gaohan.WeatherF.model;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import java.util.List;
  * Created by 旋风小伙 on 2017/4/27.
  */
 
-public class TimeWeather {
+public class Weather {
     private String status;
 
     private String count;
@@ -15,7 +15,7 @@ public class TimeWeather {
 
     private String infocode;
 
-    private List<Forecasts> forecasts ;
+    private List<Lives> lives ;
 
     public void setStatus(String status){
         this.status = status;
@@ -49,11 +49,11 @@ public class TimeWeather {
         return this.infocode;
     }
 
-    public void setForecasts(List<Forecasts> forecasts){
-        this.forecasts = forecasts;
+    public void setLives(List<Lives> lives){
+        this.lives = lives;
     }
 
-    public List<Forecasts> getForecasts(){
-        return this.forecasts;
+    public List<Lives> getLives(){
+        return this.lives;
     }
 }

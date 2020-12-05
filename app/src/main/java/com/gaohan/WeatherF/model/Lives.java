@@ -1,6 +1,6 @@
-package com.toosame.weather.model;
+package com.gaohan.WeatherF.model;
 
-import com.toosame.weather.utils.WeatherUtils;
+import com.gaohan.WeatherF.utils.WeatherUtils;
 
 /**
  * Created by 旋风小伙 on 2017/4/27.

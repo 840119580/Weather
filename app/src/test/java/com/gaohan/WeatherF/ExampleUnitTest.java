@@ -1,4 +1,4 @@
-package com.toosame.weather;
+package com.gaohan.WeatherF;
 
 import org.junit.Test;
 

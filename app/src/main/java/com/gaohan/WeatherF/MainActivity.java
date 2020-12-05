@@ -1,4 +1,4 @@
-package com.toosame.weather;
+package com.gaohan.WeatherF;
 
 import android.content.Intent;
 import android.graphics.Color;
@@ -13,13 +13,13 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.toosame.weather.model.Casts;
-import com.toosame.weather.model.Forecasts;
-import com.toosame.weather.model.Lives;
-import com.toosame.weather.model.TimeWeather;
-import com.toosame.weather.model.Weather;
-import com.toosame.weather.utils.HttpClient;
-import com.toosame.weather.utils.WeatherUtils;
+import com.gaohan.WeatherF.model.Casts;
+import com.gaohan.WeatherF.model.Forecasts;
+import com.gaohan.WeatherF.model.Lives;
+import com.gaohan.WeatherF.model.TimeWeather;
+import com.gaohan.WeatherF.model.Weather;
+import com.gaohan.WeatherF.utils.HttpClient;
+import com.gaohan.WeatherF.utils.WeatherUtils;
 
 import java.text.DateFormat;
 import java.text.ParseException;

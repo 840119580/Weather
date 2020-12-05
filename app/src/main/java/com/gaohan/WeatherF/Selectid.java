@@ -1,4 +1,4 @@
-package com.toosame.weather;
+package com.gaohan.WeatherF;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

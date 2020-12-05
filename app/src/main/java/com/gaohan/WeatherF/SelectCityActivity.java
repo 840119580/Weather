@@ -1,4 +1,4 @@
-package com.toosame.weather;
+package com.gaohan.WeatherF;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -15,9 +15,9 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
-import com.toosame.weather.model.DisCity;
-import com.toosame.weather.model.Districts;
-import com.toosame.weather.model.DistrictsRoot;
+import com.gaohan.WeatherF.model.DisCity;
+import com.gaohan.WeatherF.model.Districts;
+import com.gaohan.WeatherF.model.DistrictsRoot;
 
 import java.io.BufferedReader;
 import java.io.IOException;

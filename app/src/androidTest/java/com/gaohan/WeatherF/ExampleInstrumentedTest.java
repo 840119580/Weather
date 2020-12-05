@@ -1,4 +1,4 @@
-package com.toosame.weather;
+package com.gaohan.WeatherF;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,6 +1,6 @@
-package com.toosame.weather.utils;
+package com.gaohan.WeatherF.utils;
 
-import com.toosame.weather.R;
+import com.gaohan.WeatherF.R;
 
 import java.util.HashMap;
 

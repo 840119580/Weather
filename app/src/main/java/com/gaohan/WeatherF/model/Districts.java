@@ -1,4 +1,4 @@
-package com.toosame.weather.model;
+package com.gaohan.WeatherF.model;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import java.util.List;
  * Created by 旋风小伙 on 2017年4月30日 0030.
  */
 
-public class DisCity {
-    private String citycode;
+public class Districts {
+    private List<String> citycode;
 
     private String adcode;
 
@@ -19,11 +19,11 @@ public class DisCity {
 
     private List<DisCity> districts ;
 
-    public void setCitycode(String citycode){
+    public void setCitycode(List<String> citycode){
         this.citycode = citycode;
     }
 
-    public String getCitycode(){
+    public List<String> getCitycode(){
         return this.citycode;
     }
 

@@ -1,4 +1,4 @@
-package com.toosame.weather.model;
+package com.gaohan.WeatherF.model;
 
 import java.util.List;
 

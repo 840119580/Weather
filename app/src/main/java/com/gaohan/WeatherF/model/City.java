@@ -1,4 +1,4 @@
-package com.toosame.weather.model;
+package com.gaohan.WeatherF.model;
 
 /**
  * Created by 旋风小伙 on 2017年4月30日 0030.

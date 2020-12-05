@@ -7,7 +7,7 @@
     android:background="@drawable/city"
     android:fitsSystemWindows="true"
     android:orientation="vertical"
-    tools:context="com.toosame.weather.SelectCityActivity">
+    tools:context="com.gaohan.WeatherF.SelectCityActivity">
 
     <FrameLayout
         android:layout_width="match_parent"
